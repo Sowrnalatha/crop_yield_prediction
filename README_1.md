@@ -1,4 +1,3 @@
-# Crop_yeild_prediction
 # 🌾 AI-Based Crop Yield Prediction System
 ## Using Real-Time Weather Data and Machine Learning
 
@@ -12,12 +11,11 @@
 
 An AI-powered system that predicts crop yields using machine learning, real-time weather data, and soil parameters. **Now serving all 38 districts across Tamil Nadu** - from farmers in small villages like Gopalapuram to major agricultural hubs across the state.
 
-**Developed by:** Johnshi Elena A
+**Developed by:** Jhonsielena  
 **Institution:** Sona college of Technology  
 **Domain:** Smart Agriculture (AI/ML)  
 **Coverage:** All 38 Districts of Tamil Nadu (100+ locations)
 
-## App : https://johnshielena.github.io/Crop_yeild_prediction/
 ---
 
 ## ✨ Key Features
@@ -369,7 +367,7 @@ Prediction:
 ## 📞 Support
 
 ### For Students/Developers
-**Email:**johnshielena07@gmail.com  
+**Email:** vinothas.cb24@bitsathy.ac.in  
 **Documentation:** See PROJECT_DOCUMENTATION.md  
 **Examples:** See example_usage.py
 
@@ -398,6 +396,11 @@ Free to use for:
 - 6 farmers from Gopalapuram village
 - Agricultural Department, Salem
 - Local agricultural officers
+
+### Technical Support
+- Bannari Amman Institute of Technology
+- Institutions Innovation Council
+- Open-Meteo API
 
 ### Inspiration
 Small and marginal farmers of Tamil Nadu who face challenges in crop selection and yield optimization.
@@ -450,12 +453,12 @@ Small and marginal farmers of Tamil Nadu who face challenges in crop selection a
 3. Open `yield_prediction_dashboard.html`
 4. Start predicting yields!
 
-**Questions?** Check `PROJECT_DOCUMENTATION.md` or contact johnshielena07@gmail.com
+**Questions?** Check `PROJECT_DOCUMENTATION.md` or contact vinothas.cb24@bitsathy.ac.in
 
 ---
 
 *Empowering Farmers with AI for a Sustainable Future* 🌾
 
-**Made with 💚 by Johnshi Elena A **  
+**Made with 💚 by Jhonsielena **  
 **Sona college of Technology**  
 **January 2026**
